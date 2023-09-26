@@ -1,0 +1,15 @@
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\bin\x64\Debug\ProjetoLojaABC.exe.config
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\bin\x64\Debug\ProjetoLojaABC.exe
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\bin\x64\Debug\ProjetoLojaABC.pdb
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.Properties.Resources.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.csproj.GenerateResource.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.exe
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.pdb
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.frmMenuPrincipal.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.frmCalculadora.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.FrmFuncionários.resources
+C:\Users\gabriel.alarian\Documents\Visual Studio 2019\ProjetoTI110\EmpresaSA1\ProjetoLojaABC\obj\x64\Debug\ProjetoLojaABC.FrmPesquisarFuncionários.resources
